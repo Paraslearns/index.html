@@ -3,11 +3,11 @@
 <head> 
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Portfolio - Naman Gupta</title>
+  <title>Portfolio - Paras Jain</title>
 </head>
 <body>
   <header>
-    <h1>Naman Gupta</h1>
+    <h1>Paras Jain</h1>
     <nav>
       <ul>
         <li><a href="#about">About</a></li>
@@ -27,8 +27,8 @@
 
     <section id="about">
       <h2>About Me</h2>
-      <img src="profile.jpg" alt="Portrait of Naman Gupta" width="200" height="200">
-      <p>Hello! I am Naman Gupta, an 18-year-old aspiring data scientist with a strong interest in building innovative projects and solving real-world problems.</p>
+      <img src="profile.jpg" alt="Portrait of Paras Jain" width="200" height="200">
+      <p>Hello! I am Paras Jain, an 18-year-old aspiring data scientist with a strong interest in building innovative projects and solving real-world problems.</p>
     </section>
 
     <section id="projects">
